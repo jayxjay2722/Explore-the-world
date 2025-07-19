@@ -1,0 +1,27 @@
+<div style="text-align:center; margin-top:40px;"><img src="logo1.jpg"></div>
+
+<h1 style="font-size:50px; text-align:center;">Explore the world</h1>
+
+<p style="font-size:20px; text-align:center; line-height: 30px; margin-bottom: 30px">The world around you is amazing! <br>The big blue sky with sun's rays shining through fluffy clouds.<br>It's beautiful and we have the opportunity to do whatever we desire.</p>
+
+<div style="text-align:center;"><a style="font-size:20px; background-color: blue; padding: 10px 30px 10px 30px; color: white;" href="https://www.pinterest.com/">Read more</a></div>
+
+<hr style="width: 70%;">
+
+<h1 style="font-size:50px; text-align:center;">Amazing spots</h1>
+
+<img styles"width: 33%;" src="image1.png">
+<img styles"width: 33%;" src="image2.png">
+<img styles"width: 33%;" src="image4.png">
+
+<h1 style="font-size:30px; text-align:center;">Explore</h1>
+
+<div style="text-align:center;">
+<video src="video/video01.mp4" controls/>
+</div>
+
+
+
+
+
+
